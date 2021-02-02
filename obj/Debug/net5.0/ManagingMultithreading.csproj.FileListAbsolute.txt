@@ -1,0 +1,16 @@
+D:\Durant\Projects\ManagingMultithreading\bin\Debug\net5.0\ManagingMultithreading.exe
+D:\Durant\Projects\ManagingMultithreading\bin\Debug\net5.0\ManagingMultithreading.deps.json
+D:\Durant\Projects\ManagingMultithreading\bin\Debug\net5.0\ManagingMultithreading.runtimeconfig.json
+D:\Durant\Projects\ManagingMultithreading\bin\Debug\net5.0\ManagingMultithreading.runtimeconfig.dev.json
+D:\Durant\Projects\ManagingMultithreading\bin\Debug\net5.0\ManagingMultithreading.dll
+D:\Durant\Projects\ManagingMultithreading\bin\Debug\net5.0\ref\ManagingMultithreading.dll
+D:\Durant\Projects\ManagingMultithreading\bin\Debug\net5.0\ManagingMultithreading.pdb
+D:\Durant\Projects\ManagingMultithreading\obj\Debug\net5.0\ManagingMultithreading.csprojAssemblyReference.cache
+D:\Durant\Projects\ManagingMultithreading\obj\Debug\net5.0\ManagingMultithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Durant\Projects\ManagingMultithreading\obj\Debug\net5.0\ManagingMultithreading.AssemblyInfoInputs.cache
+D:\Durant\Projects\ManagingMultithreading\obj\Debug\net5.0\ManagingMultithreading.AssemblyInfo.cs
+D:\Durant\Projects\ManagingMultithreading\obj\Debug\net5.0\ManagingMultithreading.csproj.CoreCompileInputs.cache
+D:\Durant\Projects\ManagingMultithreading\obj\Debug\net5.0\ManagingMultithreading.dll
+D:\Durant\Projects\ManagingMultithreading\obj\Debug\net5.0\ref\ManagingMultithreading.dll
+D:\Durant\Projects\ManagingMultithreading\obj\Debug\net5.0\ManagingMultithreading.pdb
+D:\Durant\Projects\ManagingMultithreading\obj\Debug\net5.0\ManagingMultithreading.genruntimeconfig.cache
